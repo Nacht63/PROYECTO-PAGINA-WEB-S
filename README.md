@@ -138,23 +138,33 @@
     <p> En Minecraft, el overworld está lleno de una amplia variedad de recursos que los jugadores pueden recolectar y utilizar para construir, crear y sobrevivir. Algunos de los recursos más importantes y comunes que se encuentran en el overworld incluyen:</p>
     <p> Madera: Uno de los recursos más básicos y fundamentales en Minecraft. Se puede obtener de árboles cortándolos con herramientas adecuadas, y se utiliza para fabricar una variedad de objetos, incluyendo herramientas, armas, bloques de construcción y más.</p>
     <img src="https://www.minecrafteo.com/wp-content/uploads/2020/09/i-like-wood-1-16.jpg" alt="Imagen" class="section-img">
+    
 
     <p> Piedra y minerales: La piedra es abundante en la mayoría de las áreas del overworld y se puede utilizar para fabricar herramientas y construir estructuras. Además, hay varios minerales que se encuentran bajo tierra, como el carbón, el hierro, el oro, el diamante, el lapislázuli, el redstone, entre otros. Cada mineral tiene sus propias características y usos específicos.</p>
     <img src="https://i.pinimg.com/originals/e3/67/9c/e3679cf81afbbedd9b6e778a4d70faca.jpg" alt="imagen" class="section-img"
+    
 
-    <p> Alimentos: Los alimentos son esenciales para mantener la salud y la energía del jugador. En el overworld, se pueden encontrar una variedad de fuentes de alimentos, como animales como vacas, cerdos, pollos, ovejas, así como cultivos como trigo, zanahorias, patatas, remolachas y frutas.</p>x
+    <p> Alimentos: Los alimentos son esenciales para mantener la salud y la energía del jugador. En el overworld, se pueden encontrar una variedad de fuentes de alimentos, como animales como vacas, cerdos, pollos, ovejas, así como cultivos como trigo, zanahorias, patatas, remolachas y frutas.</p>
+    
     <img src="https://i.pinimg.com/originals/27/4d/46/274d468a365038175ba5d043081cfe86.jpg" alt="imagen" class="section-img">
 
     <p> Agua: El agua es un recurso fundamental en Minecraft. Se puede encontrar en forma de cuerpos de agua naturales como océanos, ríos, lagos y lagunas, y se utiliza para diversas actividades, como irrigar cultivos, navegar en botes, pescar y extinguir incendios.</p>
+    
     <img src="https://i.pinimg.com/originals/01/85/5c/01855cafe98479ab017c1a1ed05f91c9.jpg" alt="Imagen" class="section-img">
+    
 
     <p> Biomas y biodiversidad: El overworld está lleno de diferentes biomas, cada uno con sus propias características y recursos únicos. Por ejemplo, los biomas de bosque tienen árboles y animales específicos, mientras que los biomas de desierto pueden contener cactus y otros recursos específicos.</p>
+    
     <img src="https://i.pinimg.com/originals/0e/bb/09/0ebb095586c2758788e860739de1c841.jpg" alt="imagen" class="section-img">
+    
 
     <p> Estructuras generadas naturalmente: Además de los recursos básicos, el overworld también contiene diversas estructuras generadas naturalmente, como cuevas, cañones, aldeas, templos y fortalezas. Estas estructuras pueden contener tesoros, recursos valiosos o desafíos para los jugadores.</p>
+    
     <img src="https://i.pinimg.com/originals/9a/6a/46/9a6a46638c10b90591ddf3375eff2684.jpg  " alt="imagen" class="section-img">
+    
 
  <p> Estos son solo algunos ejemplos de los muchos recursos que se pueden encontrar en el overworld de Minecraft. La exploración y la recolección de estos recursos son aspectos fundamentales de la jugabilidad del juego.</p>
+
 
  <section id="nether">
     <h2>Nether</h2>
